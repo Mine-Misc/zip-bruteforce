@@ -53,11 +53,13 @@ cd zip-bruteforce
 
 ---
 
-Usage
+## Usage
 
 Run the script:
 
+```
 python brute_force.py
+```
 
 Follow the on-screen prompts to:
 
@@ -71,9 +73,11 @@ Start the brute-force process
 
 ---
 
-Example
+## Example
 
+```
 python brute_force.py
+```
 
 The script will attempt passwords until:
 
@@ -85,7 +89,7 @@ The wordlist is exhausted
 
 ---
 
-Notes
+## Notes
 
 Speed depends on:
 
@@ -102,13 +106,15 @@ This is not optimized for large-scale cracking — it’s meant for learning and
 
 ---
 
-Project Structure
+## Project Structure
 
+```
 zip-bruteforce/
 │
 ├── brute_force.py
 ├── README.md
 └── wordlist.txt   # optional
+```
 
 
 ---
@@ -127,7 +133,7 @@ Better error handling
 
 ---
 
-License
+## License
 
 This project is released for educational purposes only.
 You are responsible for how you use it.
