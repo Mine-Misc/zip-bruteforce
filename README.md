@@ -39,7 +39,7 @@ A password-protected .zip file
 
 ---
 
-Setup
+##Setup
 
 Clone the repository:
 
