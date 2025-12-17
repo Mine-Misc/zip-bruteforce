@@ -39,12 +39,13 @@ A password-protected .zip file
 
 ---
 
-##Setup
+##  Setup
 
 Clone the repository:
 
+```
 git clone https://github.com/minecraftpe2509-cmd/zip-bruteforce
-
+```
 Move into the project directory:
 
 cd zip-bruteforce
